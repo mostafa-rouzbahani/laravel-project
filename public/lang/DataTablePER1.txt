@@ -1,0 +1,23 @@
+{
+  "sEmptyTable":     "هیچ داده ای در جدول وجود ندارد",
+  "sInfo":           "نمایش _START_ تا _END_ از _TOTAL_ معامله",
+  "sInfoEmpty":      "نمایش 0 تا 0 از 0 معامله",
+  "sInfoFiltered":   "(فیلتر شده از _MAX_ معامله)",
+  "sInfoPostFix":    "",
+  "sInfoThousands":  ",",
+  "sLengthMenu":     "نمایش _MENU_ معامله",
+  "sLoadingRecords": "در حال بارگزاری...",
+  "sProcessing":     "در حال پردازش...",
+  "sSearch":         "جستجو:",
+  "sZeroRecords":    "معامله با این مشخصات پیدا نشد",
+  "oPaginate": {
+    "sFirst":    "ابتدا",
+    "sLast":     "انتها",
+    "sNext":     "بعدی",
+    "sPrevious": "قبلی"
+  },
+  "oAria": {
+    "sSortAscending":  ": فعال سازی نمایش به صورت صعودی",
+    "sSortDescending": ": فعال سازی نمایش به صورت نزولی"
+  }
+}
